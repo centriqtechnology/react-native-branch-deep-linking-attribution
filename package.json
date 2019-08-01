@@ -2,7 +2,7 @@
   "name": "react-native-branch",
   "version": "3.0.1",
   "description": "Branch Metrics React Native SDK",
-  "main": "src/index",
+  "main": "src/index.js",
   "files": [
     "android",
     "branch.example.json",
